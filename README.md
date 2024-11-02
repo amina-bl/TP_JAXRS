@@ -20,12 +20,11 @@ Utilisez [Spring Initializr](https://start.spring.io/) avec les dépendances :
 - **Spring Web**, **Spring Data JPA**, **H2 Database**, **Jersey**, **Lombok**, **DevTools**.
 
 ## 2. Dépendance JAXB
-Ajoutez JAXB pour le support XML dans `pom.xml` :
-```xml
-<dependency>
-    <groupId>org.glassfish.jersey.media</groupId>
-    <artifactId>jersey-media-jaxb</artifactId>
-    <version>3.1.1</version>
-</dependency>
+Ajoutez JAXB pour le support XML dans `pom.xml` 
+## 3. Démonstration
 
-[Download Video](JSONDemo.mp4)
+https://github.com/user-attachments/assets/b19bc260-3715-4547-9554-d96c1a8c2b1d
+
+
+https://github.com/user-attachments/assets/8f597f37-f767-47b5-b756-79b684f87c0a
+
