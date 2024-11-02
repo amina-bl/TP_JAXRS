@@ -16,11 +16,11 @@ Ce projet montre comment construire des services web RESTful en utilisant **JAX-
 - `CompteRestJaxRSAPI.java` : Implémentation des services REST
 
 ## 1. Création du projet
-Utilisez [Spring Initializr](https://start.spring.io/) avec les dépendances :
+Utilisezation de [Spring Initializr](https://start.spring.io/) avec les dépendances :
 - **Spring Web**, **Spring Data JPA**, **H2 Database**, **Jersey**, **Lombok**, **DevTools**.
 
 ## 2. Dépendance JAXB
-Ajoutez JAXB pour le support XML dans `pom.xml` 
+Ajout de JAXB pour le support XML dans `pom.xml` 
 ## 3. Démonstration
 
 https://github.com/user-attachments/assets/b19bc260-3715-4547-9554-d96c1a8c2b1d
