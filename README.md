@@ -27,3 +27,5 @@ Ajoutez JAXB pour le support XML dans `pom.xml` :
     <artifactId>jersey-media-jaxb</artifactId>
     <version>3.1.1</version>
 </dependency>
+
+[Download Video](JSONDemo.mp4)
